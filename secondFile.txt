@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 "Line 3 in secondFile - UPDATED IN GIT_1" 
+=======
+"Line 3 in secondFile - UPDATED IN GIT_2" 
+>>>>>>> git_2
 Line 4 in secondFile 
 Line 5 in secondFile 
 Line 6 in secondFile 
@@ -6,4 +10,8 @@ Line 7 in secondFile
 Line 8 in secondFile 
 Line 9 in secondFile 
 Line 10 in secondFile 
+<<<<<<< HEAD
 "Line 5 in secondFile - UPDATED IN GIT_1" 
+=======
+"Line 5 in secondFile - UPDATED IN GIT_2" 
+>>>>>>> git_2
