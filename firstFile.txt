@@ -1,9 +1,4 @@
-"Line 2 - MODIFIED IN STEP 7" 
-Line 4 in firstFile 
-Line 5 in firstFile 
-Line 6 in firstFile 
-Line 7 in firstFile 
-Line 8 in firstFile 
-Line 9 in firstFile 
+"Line 6 - MODIFIED IN STEP 8" 
 Line 10 in firstFile 
 "Line 4 - MODIFIED IN STEP 7" 
+"Line 8 - MODIFIED IN STEP 8" 
